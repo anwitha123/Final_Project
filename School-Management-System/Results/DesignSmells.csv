@@ -1,0 +1,3 @@
+Project Name,Package Name,Type Name,Design Smell,Cause of the Smell
+School-Management-System,Admin,AdminHome,Cyclically-dependent Modularization,The tool detected the smell in this class because this class participates in a cyclic dependency. The participating classes in the cycle are: UserHome; UserLogin; AdminLogin; AdminHome
+School-Management-System,User,UserHome,Cyclically-dependent Modularization,The tool detected the smell in this class because this class participates in a cyclic dependency. The participating classes in the cycle are: UserHome; UserLogin; AdminLogin; AdminHome

@@ -1,0 +1,5 @@
+Project Name,Package Name,Type Name,Method Name,Implementation Smell,Cause of the Smell,Method start line no
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,WeatherAppGUI,Long Statement,The length of the statement "BufferedImage icon=ImageIO.read(new File("C:\\Users\\SUBRATO\\eclipse-workspace\\WeatherStackApp\\src\\com\\weatherstack\\app\\icon.png"));" is 139.,27
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,WeatherAppGUI,Magic Number,The method contains a magic number: 600,27
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,WeatherAppGUI,Magic Number,The method contains a magic number: 150,27
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,WeatherAppGUI,Magic Number,The method contains a magic number: 50,27

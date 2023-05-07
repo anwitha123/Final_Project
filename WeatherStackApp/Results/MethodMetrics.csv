@@ -1,0 +1,6 @@
+Project Name,Package Name,Type Name,Method Name,LOC,CC,PC,Line no,IsTest,Main prod class tested,Production classes tested
+WeatherStackApp,com.weatherstack.app,WeatherApp,WeatherApp,23,1,1,26,0,,
+WeatherStackApp,com.weatherstack.app,WeatherApp,toString,3,1,0,61,0,,
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,WeatherAppGUI,47,1,0,27,0,com.weatherstack.app.WeatherApp,com.weatherstack.app.WeatherApp
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,actionPerformed,24,1,1,51,0,com.weatherstack.app.WeatherApp,com.weatherstack.app.WeatherApp
+WeatherStackApp,com.weatherstack.app,WeatherAppGUI,main,3,1,1,86,0,,
